@@ -41,12 +41,16 @@ Now that you've tried those; try drawing out a relation matrix for *t ≤*, and 
 Can you think of a real world example of something that could meet all three properties?  
 
 ### *Answer*
-*t ≤*
 
-            v
-          1 2 3
-       1 ⎡∘ ∘ ∘⎤
-    t  2 ⎢∙ ∘ ∘⎥
-       3 ⎣∙ ∙ ∘⎦
+*t ≤*  
 
+Reflexivity = True  
+Symmetry = False  
+Transitivity = True   
+
+           v
+         1 2 3
+      1 ⎡∙ ∙ ∙⎤
+    t 2 ⎢∘ ∙ ∙⎥
+      3 ⎣∘ ∘ ∙⎦
        
